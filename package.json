@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
+  "name": "mariohoyos",
   "version": "1.1.0",
-  "description": "A personal card for Mario Hoyos (www.mariohoyosdev.com)",
+  "description": "A business card for Mario Hoyos (www.mariohoyosdev.com)",
   "main": "index.js",
   "bin": {
     "mariohoyos": "./bin/card.js"
